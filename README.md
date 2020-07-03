@@ -4,4 +4,4 @@
 ## 数据集
 数据集链接：1.spambase_benchmarks； 2.skin_benchmarks
 ## 结果
-1.spambase_roc； 2.skin_roc
+1.spambase_roc.csv； 2.skin_roc.csv
